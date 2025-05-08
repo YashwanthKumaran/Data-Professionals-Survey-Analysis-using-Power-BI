@@ -1,4 +1,7 @@
 # Data-Professionals-Survey-Analysis-using-Power-BI
+
+![](https://github.com/YashwanthKumaran/Excel-Salary-Dashboard/blob/main/1_Salary_Dashboard_Final_Dashboard.gif)
+
 This project analyzes a global data professional survey using Power BI, with data cleaning via Power Query and insights powered by DAX. It visualizes trends in job roles, salaries, tools, satisfaction, and entry challenges, offering a clear view of the data career landscape through interactive dashboards.
 
 ## 📊 Project Overview
