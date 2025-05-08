@@ -30,10 +30,6 @@ The visualizations in this report are based on survey data collected from profes
 - **Job Satisfaction**: Despite challenges, job satisfaction remains high among professionals already in the field, with most reporting positive experiences in their current roles.
 - **Salary Variations**: Salaries in the data field vary significantly depending on the job role and geographical region, with more specialized roles such as data scientists earning higher salaries compared to general data analysts.
 
-## 📁 Files
-
-- **Data Professionals Survey Analysis using Power BI.pbix**: Power BI project file containing the full interactive dashboard and data model.
-
    
 ## 🤝 Contributions
 
