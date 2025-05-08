@@ -32,11 +32,6 @@ The visualizations in this report are based on survey data collected from profes
 
 - **Data Professionals Survey Analysis using Power BI.pbix**: Power BI project file containing the full interactive dashboard and data model.
 
-## 📌 How to Use
-
-1. **Download the .pbix File**: Click the link to download the Power BI project file (`.pbix`).
-2. **Open in Power BI Desktop**: Launch the file using **Microsoft Power BI Desktop** to explore and interact with the visualizations.
-3. **Explore Interactive Visuals**: Use the interactive filters and visuals within the dashboard to dive deeper into different aspects of the data profession, such as job titles, skills, salaries, and more.
    
 ## 🤝 Contributions
 
